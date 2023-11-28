@@ -1,0 +1,32 @@
+button{
+    color: red;
+    background-color: rgb(24, 13, 13);
+}
+
+#title{
+    color: greenyellow;
+}
+
+.contents{
+    color: darkgreen;
+}
+
+#para1{
+    color: blueviolet;
+}
+
+div{
+    
+    height: 800px;
+    width: 500px;
+    background-color: powderblue;
+    
+   
+    background: red;
+    margin-left: 80px;
+    margin-top: 50px;
+
+}
+.cont{
+    background-color:rgb(15, 194, 194);
+}
